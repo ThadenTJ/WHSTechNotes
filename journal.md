@@ -11,3 +11,11 @@ In today's digital landscape, protecting personal and sensitive information when
 # January 8, 2025
 In the last semester, I've enjoy the time we got to code with the drones and cars. I which that we could improve on is that we can be more careful of the drones because we weren't able to use them anymore because of that. I'll like to start of the semester by learning more about codes and doing more activites and have group projects for fun. I'm not really intrested in certifications right now.
 # January 13, 2025
+
+# January 27, 2025
+  | Name     | Car | Mistake |
+    | :------- | :-- | :------ |
+    | Jimmy    |   Honda Civic  |    Drilled Hole In Gas Tank/ Drilled Hole In Gas Tank   |
+    | Kayla    |  GMG Sierra    |     Fixed Wrong Problem    |
+    | Bart     | Toyota Corolla |     Left Stains On Carpet	    |
+    | Harrison | Subaru Forester|    Left The Oil Cap Off/ Left The Oil Cap Off    |
