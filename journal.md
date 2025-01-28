@@ -13,9 +13,9 @@ In the last semester, I've enjoy the time we got to code with the drones and car
 # January 13, 2025
 
 # January 27, 2025
-  | Name       |       Car      |                        Mistake                          |
-    | :------- | :--------------| :-------------------------------------------------------|
-    | Jimmy    |   Honda Civic  |    Drilled Hole In Gas Tank/ Drilled Hole In Gas Tank   |
-    | Kayla    |  GMG Sierra    |     Fixed Wrong Problem    |
-    | Bart     | Toyota Corolla |     Left Stains On Carpet	    |
-    | Harrison | Subaru Forester|    Left The Oil Cap Off/ Left The Oil Cap Off    |
+| Name       |       Car      |                        Mistake                          |
+| :------- | :--------------| :-------------------------------------------------------|
+| Jimmy    |   Honda Civic  |    Drilled Hole In Gas Tank/ Drilled Hole In Gas Tank   |
+| Kayla    |  GMG Sierra    |     Fixed Wrong Problem    |
+| Bart     | Toyota Corolla |     Left Stains On Carpet	    |
+| Harrison | Subaru Forester|    Left The Oil Cap Off/ Left The Oil Cap Off    |
