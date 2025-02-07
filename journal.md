@@ -19,3 +19,5 @@ In the last semester, I've enjoy the time we got to code with the drones and car
 | Kayla    |  GMG Sierra    |     Fixed Wrong Problem    |
 | Bart     | Toyota Corolla |     Left Stains On Carpet	    |
 | Harrison | Subaru Forester|    Left The Oil Cap Off/ Left The Oil Cap Off    |
+# February 7, 2025
+Integrating technology into aviation systems can significantly enhance safety. For instance, implementing machine learning algorithms in Big Data & Predictive Analytics can analyze vast amounts of data to identify potential risks and predict accidents. By analyzing flight data, weather patterns, and aircraft performance, these algorithms can identify patterns and anomalies that might indicate a higher risk of accidents, allowing proactive intervention. Furthermore, advancements in Cybersecurity in Aviation are essential to protect critical infrastructure from cyberattacks that could compromise safety and disrupt operations. By implementing robust cybersecurity measures, aviation authorities can mitigate the risks posed by malicious actors seeking to disrupt air travel.
