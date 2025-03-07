@@ -21,3 +21,18 @@ In the last semester, I've enjoy the time we got to code with the drones and car
 | Harrison | Subaru Forester|    Left The Oil Cap Off/ Left The Oil Cap Off    |
 # February 7, 2025
 Integrating technology into aviation systems can significantly enhance safety. For instance, implementing machine learning algorithms in Big Data & Predictive Analytics can analyze vast amounts of data to identify potential risks and predict accidents. By analyzing flight data, weather patterns, and aircraft performance, these algorithms can identify patterns and anomalies that might indicate a higher risk of accidents, allowing proactive intervention. Furthermore, advancements in Cybersecurity in Aviation are essential to protect critical infrastructure from cyberattacks that could compromise safety and disrupt operations. By implementing robust cybersecurity measures, aviation authorities can mitigate the risks posed by malicious actors seeking to disrupt air travel.
+# February 11, 2025
+
+# February 18, 2025
+
+# February 24, 2025
+Technology has had a significant impact on language. It has made communication faster and more efficient, leading to the development of new forms of language like emojis and acronyms. However, some argue that technology has negatively affected language skills, as people rely on spell-checkers and auto correct.
+Speaking generally, Gen Z prefers online communication, Millennials avoid phone calls, and Boomers prefer phone calls or in-person interactions. Generations communicate differently, and technology continues to affect those preferences.
+# March 3, 2025
+| Name      | Power | Challenge     |
+| :---        |    :----:   |          ---: |
+| Zara        | Telekenesis       | Secure Building
+| Aether      | Weather Manipulation | Prevent Assassination
+| Thorne      | Invisibility      | Underwater Rescue
+| Silver      | Mind Control	| Retrieve Stolen Goods
+| Tanglier    | Shapeshifting | Extract Prisoner
