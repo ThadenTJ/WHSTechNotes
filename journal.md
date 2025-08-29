@@ -40,3 +40,5 @@ Speaking generally, Gen Z prefers online communication, Millennials avoid phone 
 
 # March 31, 2025
 I'm feeling okay at most, somtimes during school is kinda stressful but other then that it's alright. The most stressful part that has happed to me in school is dealing with people who annoy me or people who just do too much. What I do is just either listen to music or talk to others I trust (such as family and some of my friends) about the situation. The one and only goal I have for the rest of the school year is to pass to become a junior next year. I can talk to my family or one friend I really trust, because they are the only people who would not joke about some of my problems.
+# August 27, 2025
+I am excided for the upcoming projects we have for this class.
