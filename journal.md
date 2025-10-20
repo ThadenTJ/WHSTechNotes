@@ -46,3 +46,9 @@ I am excided for the upcoming projects we have for this class.
 I dislike this new phone law, I think it's stupid and woundering why they were thinking about when they made this dumb law. They're other things that they can be worried about that are more important than phones during school hours. I am not really adjusting to this law, I wouldn't even mind if we at least have them out during lunch. But, I do see that the students grades are going to go up and the teachers arew going to be less stress by not arguing to teens about being on their electronics.
 # September 15, 2025
 My idea for the Presidential Artificial Intelligence project is that what if we use AI to up our health care issues into have AI assist us in the medical feild. We could use the AI for help in making health care more efficient and accurate in treatments, drug discovery, difficult challenges, etc. This meets the requirements of the project because it focuses on the health and safety of the community, it could also help us in educational terms as in learning about the human body and medicine. AI robots help with synthesize information in patient records, generating concise summaries and flagging key details to help clinicians make more informed decisions. With this AI could improve our health and safty for our country and maybe increasing the chances of human survival.
+# October 20, 2025
+| Name        | Class       | Seat          |
+| :---        |    :----:   |          ---: |
+| Franklin    | Second      | 91A           |
+| Hardeep     | Third       | 61F           |
+| Marla       | First       | 35B           |
