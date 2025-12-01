@@ -58,3 +58,10 @@ My idea for the Presidential Artificial Intelligence project is that what if we 
 | Fiona       | Gado Gado      | Creme Brulee      |
 | Tobias      | Shrimp Ceviche | French Apple Cake |
 | Leanne      | Beef Wellington| Raspberry Tiramisu|
+# November 3, 2025
+If SNAP runs out of funding is that the imsecurity for food will increase for Americans. This includes citizens, children, elders, and people with disablities. Technology could have people connect to food recouces, assistance in navigation, and information. What makes it hard for people to use tech base solutions is lacking the abitily to access the internet, the privacy concerns, and problems of the language barriers. If I were to make a tool for food insecurity it would be called "MunchyWeb" a app that would allow the user to connect with food resources, navigation, information, translation, and access even if offline.
+# November 10, 2025
+
+# November 17, 2025
+To be honest not really, though I am happy that we get a week off from the break.
+# December 1, 2025
