@@ -66,3 +66,5 @@ If SNAP runs out of funding is that the imsecurity for food will increase for Am
 To be honest not really, though I am happy that we get a week off from the break.
 # December 1, 2025
 One job that includes the use of drones is drone mapper. The programers create the brain of teh software for autonomus flight,data processing, and navigation. The average salary for drone mapping is around $55,000 - $69,000 with $26.65 to $33 per hour. The educational or certifications reqirements for drone mapping is the FAA Part 107 Remote Pilot Certificate. I would NOT want to do this job because I'm not that good with drones in general.
+# January 6, 2026
+My christmas break was amazing, I needed the extra rest ngl. But I didn't really do anything that includes with technology. I guess playing my games on the console and figurng out how to use my USB card to gain extra storage counts. 
