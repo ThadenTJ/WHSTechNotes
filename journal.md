@@ -68,3 +68,8 @@ To be honest not really, though I am happy that we get a week off from the break
 One job that includes the use of drones is drone mapper. The programers create the brain of teh software for autonomus flight,data processing, and navigation. The average salary for drone mapping is around $55,000 - $69,000 with $26.65 to $33 per hour. The educational or certifications reqirements for drone mapping is the FAA Part 107 Remote Pilot Certificate. I would NOT want to do this job because I'm not that good with drones in general.
 # January 6, 2026
 My christmas break was amazing, I needed the extra rest ngl. But I didn't really do anything that includes with technology. I guess playing my games on the console and figurng out how to use my USB card to gain extra storage counts. 
+# January 12, 2026
+The kind of harm that can happen if they don't moderate online spaces (using Mincraft as an example) would be harassing and cyberbullying of neurodivergent players. Aircraft was ivented to solve these type of problems by making a moderated sever, specifically for special need kids. The developers choices affects the users experience safety becuase they designed aka protect online spaces with rules, moderation, and reporting systems. What can happpen if the developers ignore safty and inclusion is 
+# January 20, 2026
+
+# January 29, 2026
