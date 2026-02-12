@@ -59,7 +59,7 @@ My idea for the Presidential Artificial Intelligence project is that what if we 
 | Tobias      | Shrimp Ceviche | French Apple Cake |
 | Leanne      | Beef Wellington| Raspberry Tiramisu|
 # November 3, 2025
-If SNAP runs out of funding is that the imsecurity for food will increase for Americans. This includes citizens, children, elders, and people with disablities. Technology could have people connect to food recouces, assistance in navigation, and information. What makes it hard for people to use tech base solutions is lacking the abitily to access the internet, the privacy concerns, and problems of the language barriers. If I were to make a tool for food insecurity it would be called "MunchyWeb" a app that would allow the user to connect with food resources, navigation, information, translation, and access even if offline.
+If SNAP runs out of funding is that the imsecurity for food will increase for Americans. This includes citizens, children, elders, and people with disablities. Technology could have people connect to food recouces, assistance in navigation, and information. What makes it hard for people to use tech base solutions is lacking the abitily to access the internet, the privacy concerns, and problems of the language barriers. If I were to , whmake a tool for food insecurity it would be called "MunchyWeb" a app that would allow the user to connect with food resources, navigation, information, translation, and access even if offline.
 # November 10, 2025
 
 # November 17, 2025
@@ -73,3 +73,11 @@ The kind of harm that can happen if they don't moderate online spaces (using Min
 # January 20, 2026
 
 # January 29, 2026
+I took the TSI both shutdown days this week, honestly I just guess the whole thing on both of them. But I will say that I did try on the English part on the TSI, but I didn't do good on it either. I did NOT reach the score on both the TSI what can I do is to study more for the TSI so that I have a better chance of passing it.
+
+# February 2, 2026 
+In a shared space, people should be mindful of their personal self care and respecting others. 
+# February 10, 2026
+1. I do like football because I just enjoy watching it.
+2. I only watched a little bit.
+3. It was buns.
