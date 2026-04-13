@@ -81,3 +81,6 @@ In a shared space, people should be mindful of their personal self care and resp
 1. I do like football because I just enjoy watching it.
 2. I only watched a little bit.
 3. It was buns.
+
+# April 13, 2026
+In my personal opinion, I belive that even with the advance technology we have isn't enough to make it through long missions like on the moon and traveling to mars. The Artemis II mission used technologies like life support systems which is temperature management, air purification, and removing humidity using renewable filters, this being crucial for long term missions in space. Another advance tech that they used were communication systems that would be a laser based communication terminal that is a upgrade from 
